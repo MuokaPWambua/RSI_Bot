@@ -5,6 +5,8 @@ a forex trading bot based on the rsi indicator strategy.
 - Metatrader5
 - Pandas
 - Python
+- stock_indicators
+- numpy
 
 ### How to run
-`python rsi.py`
+`python RSI_Robot.py`
